@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sherlyc/gulp-sass.git"
+    "url": "git+https://github.com/sherlyc/gulp-sass-work.git"
   },
   "author": "sherly",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sherlyc/gulp-sass/issues"
+    "url": "https://github.com/sherlyc/gulp-sass-work/issues"
   },
-  "homepage": "https://github.com/sherlyc/gulp-sass#readme",
+  "homepage": "https://github.com/sherlyc/gulp-sass-work#readme",
   "devDependencies": {
     "gulp": "^3.9.1"
   }
